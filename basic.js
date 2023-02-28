@@ -14,3 +14,6 @@ const printMyName = (name) => {
   console.log(name);
 };
 printMyName("Maria Islam");
+
+const multiply = (number) => number * 2;
+console.log(multiply(4));
